@@ -1,0 +1,16 @@
+C:\Users\Everett_Bryce\source\repos\VirusAPP\VirusAPP\bin\Debug\VirusAPP.exe.config
+C:\Users\Everett_Bryce\source\repos\VirusAPP\VirusAPP\bin\Debug\VirusAPP.exe
+C:\Users\Everett_Bryce\source\repos\VirusAPP\VirusAPP\bin\Debug\VirusAPP.pdb
+C:\Users\Everett_Bryce\source\repos\VirusAPP\VirusAPP\obj\Debug\VirusAPP.csproj.AssemblyReference.cache
+C:\Users\Everett_Bryce\source\repos\VirusAPP\VirusAPP\obj\Debug\VirusAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Everett_Bryce\source\repos\VirusAPP\VirusAPP\obj\Debug\MainWindow.g.cs
+C:\Users\Everett_Bryce\source\repos\VirusAPP\VirusAPP\obj\Debug\App.g.cs
+C:\Users\Everett_Bryce\source\repos\VirusAPP\VirusAPP\obj\Debug\VirusAPP_MarkupCompile.cache
+C:\Users\Everett_Bryce\source\repos\VirusAPP\VirusAPP\obj\Debug\VirusAPP_MarkupCompile.lref
+C:\Users\Everett_Bryce\source\repos\VirusAPP\VirusAPP\obj\Debug\MainWindow.baml
+C:\Users\Everett_Bryce\source\repos\VirusAPP\VirusAPP\obj\Debug\VirusAPP.g.resources
+C:\Users\Everett_Bryce\source\repos\VirusAPP\VirusAPP\obj\Debug\VirusAPP.Properties.Resources.resources
+C:\Users\Everett_Bryce\source\repos\VirusAPP\VirusAPP\obj\Debug\VirusAPP.csproj.GenerateResource.cache
+C:\Users\Everett_Bryce\source\repos\VirusAPP\VirusAPP\obj\Debug\VirusAPP.csproj.CoreCompileInputs.cache
+C:\Users\Everett_Bryce\source\repos\VirusAPP\VirusAPP\obj\Debug\VirusAPP.exe
+C:\Users\Everett_Bryce\source\repos\VirusAPP\VirusAPP\obj\Debug\VirusAPP.pdb
